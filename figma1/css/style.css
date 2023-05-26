@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+#figma{
+    background: url(../img/Rectangle\ 1.png) no-repeat center/cover;
+    min-width: 100vh;
+    min-height: 100vh;
+
+}
+.fon1{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.img1{
+    width: 350px;
+    height: 360px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.img2{
+    width: 124px;
+    height: 124px;
+    margin-left: 1000px;
+    margin-top: 550px;
+}
+.text1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.title2{
+    
+font-family: 'Cardo';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 43px;
+display: flex;
+align-items: center;
+    color: green;
+}
+.text2{
+   
+    color: rgb(240, 12, 24);
+}
+.title3{
+padding-left: 100px;
+color: red;
+font-family: 'Cardo';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 45px;
+display: flex;
+align-items: center;
+
+}
+.title{
+   
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+display: flex;
+align-items: center;
+}
